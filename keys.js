@@ -10,3 +10,10 @@ const keys = Object.keys(details);
 const values = Object.values(details);
 console.log(keys);
 console.log(values);
+
+
+
+
+
+Object.freeze(age);
+console.log(details);
