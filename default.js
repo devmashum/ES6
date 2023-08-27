@@ -7,4 +7,4 @@ function add(num1 = 10, num2) {
 
 }
 
-const faisal = add(undefined, 3);
+const faisal = add(2, 3);
